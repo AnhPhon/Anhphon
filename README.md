@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anh Phon</h1
+ <img src="https://github.com/AnhPhon/images/blob/main/banner.gif" alt="side Image" align="center" width="1000" height="auto" />
 
 <a href="https://www.facebook.com/anhphon.99/">
   <img align="left" alt="AnhPhon's Facebook" width="22px" src="https://github.com/AnhPhon/images/blob/main/FaceBook.png" />

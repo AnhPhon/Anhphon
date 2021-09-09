@@ -4,6 +4,10 @@
   <img align="left" alt="AnhPhon's Facebook" width="22px" src="https://github.com/AnhPhon/images/blob/main/FaceBook.png" />
 </a>
 
+<br/>
+<br/>
+
+
 Common get an inital briefing about me here! It's the place where I gotta learn new sorts of things :grin:
 
 - 🔭 I’m currently working on Flutter:wink:

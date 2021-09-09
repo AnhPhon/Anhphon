@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anh Phon</h1
 
-<img src="https://github.com/AnhPhon/images/blob/main/banner.gif" alt="side Image" align="center" width="1000" height="auto" />
+<img src="https://github.com/AnhPhon/images/blob/main/banner.gif" alt="side Image" align="center" width="1920" height="1080" />
 
 <a href="https://www.facebook.com/anhphon.99/">
   <img align="left" alt="AnhPhon's Facebook" width="22px" src="https://github.com/AnhPhon/images/blob/main/FaceBook.png" />

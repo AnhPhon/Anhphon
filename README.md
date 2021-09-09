@@ -1,5 +1,8 @@
 ## Hi, I'm Anh Phon 👋
 
+<a href="https://www.facebook.com/anhphon.99/">
+  <img align="left" alt="AnhPhon's Facebook" width="22px" src="https://github.com/AnhPhon/images/blob/main/FaceBook.png" />
+</a>
 
 Common get an inital briefing about me here! It's the place where I gotta learn new sorts of things :grin:
 

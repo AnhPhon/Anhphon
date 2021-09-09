@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anh Phon</h1
-
+  
 ![banner2](https://user-images.githubusercontent.com/86840994/132709920-874f10a8-e7e0-45b9-a5ba-16f661213516.gif)
-
+  
 <a href="https://www.facebook.com/anhphon.99/">
   <img align="left" alt="AnhPhon's Facebook" width="22px" src="https://github.com/AnhPhon/images/blob/main/FaceBook.png" />
 </a>
@@ -11,8 +11,6 @@
 
 <br/>
 <br/>
-
-
 Common get an inital briefing about me here! It's the place where I gotta learn new sorts of things :grin:
 
 - 🔭 I’m currently working on Flutter:wink:
@@ -20,7 +18,6 @@ Common get an inital briefing about me here! It's the place where I gotta learn 
 - 👯 What I aim to be is a FullStack developer and hope to have the opportunity to cooperate with many big projects.
 - 💬 Mail me for flutter, any App or Web development realted project
 - 📫 Find me here: [@AnhPhon](https://twitter.com/AnhPhon)
-
 
 ## ⚡ Technologies
 ![Flutter](https://img.shields.io/badge/-Flutter-teal?style=flat-square&logo=Flutter)
